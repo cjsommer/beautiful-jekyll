@@ -28,7 +28,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "https://avatars0.githubusercontent.com/u/6353007?v=3&s=460"
+avatar: "/img/cjsommer-avatar.jpg"
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter

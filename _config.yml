@@ -56,7 +56,7 @@ author:
 
 # Select which links to show in the footer
 footer-links-active:
-  rss: false
+  rss: true
   facebook: false
   email: true
   twitter: true
@@ -75,8 +75,8 @@ footer-links-active:
 # Select which share links to show in posts
 share-links-active:
   twitter: true
-  facebook: false
-  google: false
+  facebook: true
+  google: true
   linkedin: true
   vk: false
 
@@ -84,6 +84,7 @@ share-links-active:
 # Remove this if you don't want a link in the footer
 url-pretty: "www.cjsommer.com"  # eg. "deanattali.com/beautiful-jekyll"
 
+<<<<<<< HEAD
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
 
@@ -130,6 +131,11 @@ footer-link-col: "#404040"
 #  - "/assets/js/custom-script.js"
 
 # --- Web Analytics Section --- #
+=======
+# --- Misc --- #
+# Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
+disqus: "cjsommer"
+>>>>>>> Update _config.yml
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
 #gtag: ""

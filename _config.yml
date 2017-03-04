@@ -84,7 +84,6 @@ share-links-active:
 # Remove this if you don't want a link in the footer
 url-pretty: "www.cjsommer.com"  # eg. "deanattali.com/beautiful-jekyll"
 
-<<<<<<< HEAD
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
 
@@ -131,17 +130,20 @@ footer-link-col: "#404040"
 #  - "/assets/js/custom-script.js"
 
 # --- Web Analytics Section --- #
-=======
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
 disqus: "cjsommer"
->>>>>>> Update _config.yml
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
 #gtag: ""
 
+<<<<<<< HEAD
 # Fill in your Google Analytics ID to track your website using Google Analytics
 #google_analytics: ""
+=======
+# Fill in your Google Analytics ID to track your website using GA
+google_analytics: "UA-61701088-1"
+>>>>>>> Added google tracking ID
 
 # Google Tag Manager ID
 #gtm: ""

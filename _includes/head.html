@@ -42,6 +42,8 @@
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | absolute_url }}">
 
   {% include gtag.html %}
+  <link rel="shortcut icon" type="image/png" href="{{ site.baseurl }}/img/favicon.png">
+
   {% include gtm_head.html %}
   {% include google_analytics.html %}
 
@@ -124,8 +126,12 @@
   {% else %}
   <meta name="twitter:card" content="summary">
   {% endif %}
+<<<<<<< HEAD
   <meta name="twitter:site" content="@{{ site.social-network-links.twitter }}">
   <meta name="twitter:creator" content="@{{ site.social-network-links.twitter }}">
+=======
+
+>>>>>>> Adding a favicon to the header
 
   <meta property="twitter:title" content="{{ title }}">
   <meta property="twitter:description" content="{{ description }}">

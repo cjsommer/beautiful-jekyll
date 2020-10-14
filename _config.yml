@@ -40,19 +40,19 @@ avatar: "/img/cjsommer-avatar.jpg"
 author:
   name: Chris Sommer
   email: "cjsommer@gmail.com"
-  facebook:   # eg. daattali
+  #facebook:   # eg. daattali
   github: cjsommer    # eg. daattali
   twitter: cjsommer   # eg. daattali
-  reddit:     # eg. daattali
+  #reddit:     # eg. daattali
   google-plus: +cjsommer   # eg. +DeanAttali or 109424658772469020925
   linkedin: cjsommer  # eg. daattali
-  xing:       # eg. daattali
-  stackoverflow:   # eg. "3943160/daattali"
-  snapchat:   # eg. daattali
-  instagram:  # eg. daattali
-  youtube:    # eg. user/daattali or channel/daattali
-  spotify:    # eg. daattali
-  telephone:    # eg. +14159998888
+  #xing:       # eg. daattali
+  #stackoverflow:   # eg. "3943160/daattali"
+  #snapchat:   # eg. daattali
+  #instagram:  # eg. daattali
+  #youtube:    # eg. user/daattali or channel/daattali
+  #spotify:    # eg. daattali
+  #telephone:    # eg. +14159998888
 
 # Select which links to show in the footer
 footer-links-active:

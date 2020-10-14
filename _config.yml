@@ -137,16 +137,11 @@ disqus: "cjsommer"
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
 #gtag: ""
 
-<<<<<<< HEAD
-# Fill in your Google Analytics ID to track your website using Google Analytics
-#google_analytics: ""
-=======
 # Fill in your Google Analytics ID to track your website using GA
 google_analytics: "UA-61701088-1"
->>>>>>> Added google tracking ID
 
 # Google Tag Manager ID
-#gtm: ""
+gtm: "UA-61701088-1"
 
 # Matomo (aka Piwik) Web statistics
 # Uncomment the following section to enable Matomo. The opt-out parameter controls

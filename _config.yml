@@ -39,10 +39,10 @@ avatar: "/img/cjsommer-avatar.jpg"
 author:
   name: "Chris Sommer"
   email: "cjsommer@gmail.com"
-  github: cjsommer    # eg. daattali
-  twitter: cjsommer   # eg. daattali
-  google-plus: +cjsommer   # eg. +DeanAttali or 109424658772469020925
-  linkedin: cjsommer  # eg. daattali
+  github: "cjsommer"
+  twitter: "cjsommer"
+  google-plus: "+cjsommer"
+  linkedin: "cjsommer"
 
 # Select which links to show in the footer
 footer-links-active:
